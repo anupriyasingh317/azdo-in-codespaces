@@ -1,4 +1,4 @@
 {
     "workspaceFolder": "azdo-in-codespaces",
-    "postCreateCommand": "git clone https://RapidX-Flashlight@dev.azure.com/RapidX-Flashlight/RapidX-Flashlight/_git/app-codescout azdo-in-codespaces"
+    "postCreateCommand": "git clone -b AB#751 https://RapidX-Flashlight@dev.azure.com/RapidX-Flashlight/RapidX-Flashlight/_git/app-codescout azdo-in-codespaces"
 }
